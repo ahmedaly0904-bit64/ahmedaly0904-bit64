@@ -1,9 +1,11 @@
 ### Ahmed Aly
 
-I write Python for two kinds of systems: ERP systems that a company runs on,
-and simulations of systems too tangled to reason about by hand.
+I am a software engineer and Odoo developer. I write Python for two kinds of
+systems: ERP systems that a company runs on, and simulations of systems too
+tangled to reason about by hand.
 
-At work I am the technical lead at a marketing company in Egypt, where I built
+At work I am the technical lead at PRISM Apex, a marketing company in Egypt,
+where I built
 the internal operations system on Odoo 17. I am learning accounting from the
 ground up, since that is the half of ERP work Python does not cover. Outside
 work I study CS at Aswan University and build simulations with Python and NumPy.
